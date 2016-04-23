@@ -11,7 +11,7 @@ Flask is Fun
 Save in a hello.py:
 
 .. code:: python
-
+0
     from flask import Flask
     app = Flask(__name__)
 
